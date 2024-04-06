@@ -2,4 +2,5 @@
 1. Create a CodeSpace <br>
 2. Go into "loader" and into "ext.sh" <br>
 3. Edit (name) to yours extension name <br>
-4. And add blocks after "blocks{"
+4. Edit (ver) to your extension version <br>
+5. And add blocks after "blocks{"
