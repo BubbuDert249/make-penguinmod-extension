@@ -5,5 +5,6 @@
 4. Edit (ver) to your extension version <br>
 5. Edit (avatar) to yours extension image/avatar <br>
 6. And add blocks after "blocks{" <br>
-NOTE: Do not change ID's of the blocks!
-HINT: {string} is text {number} is number {boolean} is boolean {stack} is orginal block
+NOTE: Do not change ID's of the blocks! <br>
+HINT: {string} is text {number} is number {boolean} is boolean {stack} is orginal block <br>
+Fun Fact: This is made by Shell, HTML And BatchFile!
