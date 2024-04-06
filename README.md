@@ -7,4 +7,4 @@
 6. And add blocks after "blocks{" <br>
 NOTE: Do not change ID's of the blocks! <br>
 HINT: {string} is text {number} is number {boolean} is boolean {stack} is orginal block <br>
-Fun Fact: This is made by Shell, HTML And BatchFile!
+Fun Fact: This is made by Shell, HTML, CSS, JavaScript And BatchFile!
