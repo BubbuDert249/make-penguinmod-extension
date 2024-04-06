@@ -4,5 +4,5 @@
 3. Edit (name) to yours extension name <br>
 4. Edit (ver) to your extension version <br>
 5. Edit (avatar) to yours extension image/avatar <br>
-6. And add blocks after "blocks{"
+6. And add blocks after "blocks{" <br>
 NOTE: Do not change ID's of the blocks!
