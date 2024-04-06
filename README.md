@@ -1,2 +1,5 @@
-# mMake your own PenguinMod Extension:
-1. Open
+# Make your own PenguinMod Extension:
+1. Create a CodeSpace <br>
+2. Go into "loader" and into "ext.sh" <br>
+3. Edit (name) to yours extension name <br>
+4. And add blocks after "blocks{"
